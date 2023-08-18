@@ -1,0 +1,126 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v16_64 {
+  width: 393px;
+  height: 852px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v16_65 {
+  width: 393px;
+  height: 764px;
+  background: url("../images/v16_65.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  left: 0px;
+  overflow: hidden;
+}
+.v16_67 {
+  width: 151px;
+  height: 49px;
+  background: url("../images/v16_67.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 401px;
+  left: 131px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v16_68 {
+  width: 151px;
+  height: 49px;
+  background: rgba(0,98,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 0px solid rgba(0,0,0,1);
+}
+.v16_69 {
+  width: 104px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 16px;
+  left: 21px;
+  font-family: Abhaya Libre;
+  font-weight: Bold;
+  font-size: 16px;
+  opacity: 1;
+  text-align: center;
+}
+.v50_56 {
+  width: 182px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 88px;
+  left: 548px;
+  font-family: ABeeZee;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v16_72 {
+  width: 330px;
+  color: url("../images/v16_72.png");
+  position: absolute;
+  top: 283px;
+  left: 41px;
+  font-family: ABeeZee;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v16_74 {
+  width: 177px;
+  color: rgba(151,151,151,1);
+  position: absolute;
+  top: 364px;
+  left: 100px;
+  font-family: ABeeZee;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: center;
+}
+.v50_116 {
+  width: 182px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 30px;
+  left: 554px;
+  font-family: ABeeZee;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v50_119 {
+  width: 182px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 30px;
+  left: 13px;
+  font-family: ABeeZee;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
